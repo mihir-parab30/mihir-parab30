@@ -7,5 +7,5 @@
 ---
 
 📫 Let’s Connect!
--📧 mihirhparab26@gmail.com 
--⭐️ Feel free to check out my repositories, contribute, or reach out for collaboration!
+- 📧 mihirhparab26@gmail.com 
+- ⭐️ Feel free to check out my repositories, contribute, or reach out for collaboration!
