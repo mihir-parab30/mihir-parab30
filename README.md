@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Mihir Parab
 
-<!--
-**mihir-parab30/mihir-parab30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate student in Data Analytics Engineering at Northeastern University  
+📍 Based in Boston, MA | 🌐 Seeking Summer '25 Internship / Fall '25 Co-op
+📊 Driven by a passion for uncovering insights, building predictive models, and designing impactful visualizations that support data-driven decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let’s Connect!
+
+📧 mihirhparab26@gmail.com 
+---
+
+⭐️ Feel free to check out my repositories, contribute, or reach out for collaboration!
