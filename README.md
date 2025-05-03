@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mihir Parab — Data Analytics Graduate Student | Turning Data into Actionable Insights
+# 👋 Hi, I'm Mihir Parab
 
 🎓 MS in Data Analytics Engineering @ Northeastern University  
 💡 Passionate about uncovering patterns, building predictive models, and creating impactful visualizations  
