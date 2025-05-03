@@ -1,11 +1,16 @@
-# 👋 Hi, I'm Mihir Parab
+# 👋 Hi, I'm Mihir Parab — Data Analytics Graduate Student | Turning Data into Actionable Insights
 
-- 🎓 Graduate student in Data Analytics Engineering at Northeastern University  
-- 📍 Based in Boston, MA | 🌐 Seeking Summer '25 Internship / Fall '25 Co-op
-- 📊 Driven by a passion for uncovering insights, building predictive models, and designing impactful visualizations that support data-driven decisions.
+🎓 MS in Data Analytics Engineering @ Northeastern University  
+💡 Passionate about uncovering patterns, building predictive models, and creating impactful visualizations  
+🧰 Tech Stack: Python, SQL, Power BI, Tableau, Excel, MongoDB, MySQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+📍 Seeking Summer ’25 Internship / Fall ’25 Co-op in Data/Business Analytics  
 
 ---
 
-📫 Let’s Connect!
-- 📧 mihirhparab26@gmail.com 
-- ⭐️ Feel free to check out my repositories, contribute, or reach out for collaboration!
+## 📫 Let’s Connect!
+
+📧 [mihirparab26@gmail.com](mailto:mihirparab26@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mihir-parab)  
+📊 [Kaggle](https://www.kaggle.com/mihirparab30p)
+
+⭐ Feel free to check out my repositories, contribute, or reach out for collaboration!
