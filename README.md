@@ -3,7 +3,7 @@
 🎓 MS in Data Analytics Engineering @ Northeastern University  
 💡 Passionate about uncovering patterns, building predictive models, and creating impactful visualizations  
 🧰 Tech Stack: Python, SQL, Power BI, Tableau, Excel, MongoDB, MySQL, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow  
-📍 Seeking Summer ’25 Internship / Fall ’25 Co-op in Data Analytics, Machine Learning, or Business Intelligence
+📍 Seeking Spring ’26 Internship / Co-op in Artificial Intelligence, Data Engineering, Data Science, Data Analytics, Machine Learning, or Business Intelligence
 
 ---
 
